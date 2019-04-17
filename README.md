@@ -27,5 +27,7 @@ The code only needs core Matlab software (it was tested in Matlab 2010).
 Study contributors:
 
 Andrey Yu. Chernyavskiy 1,2, Dmitry O. Sinitsyn 1, Alexandra G. Poydasheva 1, Ilya S. Bakulin 1, Natalia А. Suponeva 1, Michael A. Piradov 1
+
 1 Research Center of Neurology, Moscow, Russia
+
 2 Valiev Institute of Physics and Technology of Russian Academy of Sciences, Moscow, Russia
