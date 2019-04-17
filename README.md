@@ -3,11 +3,11 @@
 Implementation of the bootstrapping-based analysis of the accuracy of cortical representation parameters obtained by TMS-mappings,
 including sample parameter function and mappings dataset 
 
-##How to run:##
+## How to run:
 
 Just run example.m script
 
-##Files:##
+## Files:
 
 *computeBS.m -* function to compute bootstrap distributions and accuracy values (normalized SD and normalized bias) 
 for the set of TMS-mappings data and the set of different number of stimuli in reduced maps
@@ -21,12 +21,12 @@ for the set of TMS-mappings data and the set of different number of stimuli in r
 
 *example.m -* example of the usage of computeBS on the sample data and cortical representation parameter
 
-###Requirements:###
+### Requirements:
 
 The code only needs core Matlab software (it was tested in Matlab 2010).
 
 
-###Study contributors:###
+### Study contributors:
 
 Andrey Yu. Chernyavskiy 1,2, Dmitry O. Sinitsyn 1, Alexandra G. Poydasheva 1, Ilya S. Bakulin 1, Natalia А. Suponeva 1, Michael A. Piradov 1
 
